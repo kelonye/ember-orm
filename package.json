@@ -1,0 +1,24 @@
+{
+  "name": "ember-orm",
+  "version": "0.0.1",
+  "main": "lib/server/index.js",
+  "description": "Node ORM 2 ⇆ Ember-Data",
+  "keywords": [
+    "ember",
+    "orm"
+  ],
+  "dependencies": {
+    "batch": "^0.5.2",
+    "component-clone": "^0.2.2",
+    "orm": "^2.1.22"
+  },
+  "devDependencies": {
+    "mysql": "^2.5.5",
+    "node-mysql": "^0.4.2",
+    "mocha": "1.14.0",
+    "should": "2.1.0",
+    "supertest": "0.8.1",
+    "express": "3.4.4"
+  },
+  "license": "MIT"
+}

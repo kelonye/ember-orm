@@ -1,0 +1,20 @@
+{
+  "name": "ember-orm",
+  "version": "0.0.1",
+  "main": "lib/client/index.js",
+  "description": "Node ORM 2 ⇆ Ember-Data",
+  "dependencies": {
+    "kelonye/ember-data": "1.0.0-beta.14.1"
+  },
+  "development": {
+    "timoxley/assert": "*"
+  },
+  "keywords": [
+    "ember",
+    "orm"
+  ],
+  "scripts": [
+    "lib/client/index.js"
+  ],
+  "license": "MIT"
+}
